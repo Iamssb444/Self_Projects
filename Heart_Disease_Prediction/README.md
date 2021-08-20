@@ -1,4 +1,6 @@
-#imported several libraries for the project:
+# Heart Disease Prediction
+The potential Heart Diseases in people are forecasted using Machine learning algorithms K Neighbor Classifier and  Decision Tree Classifier.
+# Imported several libraries for the project:
 
 Numpy: To work with arrays
 
@@ -14,16 +16,16 @@ StandardScaler: To scale all the features, so that the Machine Learning model be
 
 Steps:
 
-#Import Dataset
+# Import Dataset
 -Imported CSV file
 
-#Understanding the Data
+# Understanding the Data
 -Different plots gives idea about the data
 
-#Data Processing
+# Data Processing
 -Converted categorial columns into 0 and 1.
 
-#Machine Learning
+# Machine Learning
 -Used 2 algorithms:
   -K neighbors Classifier
   -Decision Tree classifier.
