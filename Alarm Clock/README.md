@@ -5,4 +5,3 @@ As the title suggests, our task here is to write a python script that creates an
 
 you should know that you also need an alarm tone which will ring at the time of the alarm. So you can download any alarm tune or you can use simple your music gallary songs.
 
-
