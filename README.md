@@ -5,4 +5,4 @@ Self- Projects done by me:
 
 2.Calculator app using python.
 
-3. QR-Code Generator using python
+3.QR-Code Generator using python
