@@ -1,4 +1,4 @@
-#imported several libraries for the project:#
+#imported several libraries for the project:
 
 Numpy: To work with arrays
 
